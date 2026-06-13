@@ -46,7 +46,7 @@ pip install requests python-dotenv
 # Примечание: Не забудьте добавить .env в .gitignore!
 
 # 5. Запуск скрипта
-python main.py
+python kworkbot.py
 
 
 📋 Как это выглядит в Telegram-боте:
